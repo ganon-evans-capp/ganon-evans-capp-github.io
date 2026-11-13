@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 <div style="text-align: center;">
   <img src="{{ '/images/ganone.jpg' | relative_url }}" alt="Ganon Evans" width="220">
